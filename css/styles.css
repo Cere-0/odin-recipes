@@ -1,0 +1,32 @@
+* {
+    
+}
+h1{
+    text-align: center;
+}
+body {
+    background-color: #808080;
+    font-family: sans-serif, monospace, Georgia;
+}
+p {
+    text-align: center;
+}
+.main {
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+li {
+    text-align: center;
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    color: black;
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 200px;
+    border-radius: 5px;
+}
